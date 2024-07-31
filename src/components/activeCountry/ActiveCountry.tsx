@@ -1,4 +1,4 @@
-import React, { forwardRef } from 'react';
+import  { forwardRef } from 'react';
 import { Card, CardContent, CardMedia, Typography, Button, IconButton } from '@mui/material';
 import { CountryInfo } from "../../types/icountry.ts";
 import { IoMdClose } from "react-icons/io";

@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import classes from './App.module.scss';
 import axios from 'axios';
 import Country from "./components/country/Country";

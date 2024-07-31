@@ -1,3 +1,3 @@
 export const handleImageError = (e: any) => {
-  e.target.src = require('@/assets/error.jpg');
+  e.target.src = require('../assets/error.jpg');
 };
